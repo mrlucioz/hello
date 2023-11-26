@@ -1,3 +1,3 @@
 print("helo git")
-print("que tal el curso?")
+print(" new que tal el curso?")
 
